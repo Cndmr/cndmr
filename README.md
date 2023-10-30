@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Can</h1>
-<h3 align="center">A passionate Junior .Net developer from Turkey</h3>
+<h3 align="center">A passionate .Net developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cndmr&label=Profile%20views&color=0e75b6&style=flat" alt="cndmr" /> </p>
 
